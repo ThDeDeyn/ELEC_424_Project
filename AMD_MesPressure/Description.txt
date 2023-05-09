@@ -1,0 +1,13 @@
+This code has been used as a base for the project "Smart Wound Care : Device Design" included in the course "ELEC-H424 : Active Medical Device"
+It is capable of displaying the tension measured by the Arduino, ranging from 0 to 1.000
+
+
+Hardware Connections for the pressure sensor (to Arduino Nano 33 BLE)
+  -VCC = 3.3V
+  -GND = GND
+  -NC = Not connected 
+  -OUT = A1
+
+
+By: Thomas De Deyn @ Ecole Polytechnique de Bruxelles (MA1 M-IRCBS)
+Date : May 4th, 2023
