@@ -1,0 +1,25 @@
+This code has been used as a base for the project "Smart Wound Care : Device Design" included in the course "ELEC-H424 : Active Medical Device"
+
+  This code is based on the example provided by te SparkFun library by Nathan Seidle (https://github.com/sparkfun/MAX30105_Breakout)
+  The modifications made allow it to  measure the force applied on the FSR402 sensors. 
+
+Hardware Connections for the O2 Sensor (to Arduino Nano 33 BLE):
+  -VIN= 3.3V
+  -GND = GND
+  -SDA = A4 (= SDA)
+  -SCL = A5 (= SCL)
+  -INT = Not connected
+
+  It is recommended to attach the sensor to the finger for accurate measurement. The sensor is sensible to small movement and/or small modification in the pressure
+  applied on it. 
+
+Hardware Connections for the pressure sensor (to Arduino Nano 33 BLE)
+  -VCC = 3.3V
+  -GND = GND
+  -NC = Not connected 
+  -OUT = A1
+
+
+
+By: Thomas De Deyn @ Ecole Polytechnique de Bruxelles (MA1 M-IRCBS)
+Date : May 4th, 2023
