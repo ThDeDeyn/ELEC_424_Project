@@ -1,0 +1,7 @@
+--- spO2_Demo.mp4 --- 
+
+Measure is taken when a finger is pressed on the sensor. The code used is the one provided by the library in the examples ( ex8 ). 
+
+--- spO2_Pressure_Demo.mp4 ---
+
+The two measures are taken simulatenously ( pressure and spO2) and displayed in real time. The code used is the AMD_MesPressure
