@@ -1,0 +1,1 @@
+This codes is taken from the library " Adafruit SHT4X " ( https://github.com/adafruit/Adafruit_SHT4X )
