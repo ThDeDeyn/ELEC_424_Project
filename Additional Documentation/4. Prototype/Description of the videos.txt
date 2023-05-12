@@ -5,3 +5,9 @@ Measure is taken when a finger is pressed on the sensor. The code used is the on
 --- spO2_Pressure_Demo.mp4 ---
 
 The two measures are taken simulatenously ( pressure and spO2) and displayed in real time. The code used is the AMD_MesPressure
+
+A finger was placed from time to time on the pressure sensor
+
+--- Temperature_Demo.mp4 ---
+
+The measure is taken in real time, a finger is placed on the sensor at the beginning of the video. The temperature slowly increases up to 32°C.
